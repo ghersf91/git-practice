@@ -1,0 +1,3 @@
+Name: Ghers
+Age: 30
+Favourite color: Blue
