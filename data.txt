@@ -1,3 +1,4 @@
 Name: Ghers
 Age: 30
 Favourite color: Blue
+Favourite soccer team: Real Madrid
